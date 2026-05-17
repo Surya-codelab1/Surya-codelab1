@@ -1,147 +1,322 @@
-<!-- ═══════════════ BINARY RAIN BANNER ═══════════════ -->
-<p align="center">
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                    SURYA-CODESPACE | GITHUB PROFILE README                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=50&pause=0&color=00BFFF&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=01010101010101010101010101010101010101010101010101010101;00110011001100110011001100110011001100110011001100110011;11100011100011100011100011100011100011100011100011100011;01010101010101010101010101010101010101010101010101010101;00110011001100110011001100110011001100110011001100110011" />
-
-</p>
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0d1117,50:0a1628,100:0d1117&text=010110+Hey,+I+am+Surya!+101001&fontSize=20&fontColor=3fb950&animation=twinkling&fontAlignY=50&desc=010011+Software+Engineer+110100&descSize=13&descAlignY=70&descFontColor=58a6ff" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=3FB950&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Currently+learning+Backend+Dev+%7C+Practising+DSA;Always+learning%2C+never+stopping+%F0%9F%92%AA;Let%27s+build+something+awesome+together!" alt="Subtitle" />
-</div>
+<!-- ██████████████████████  MATRIX BANNER  ██████████████████████ -->
 
 <div align="center">
 
-![Open to Work](https://img.shields.io/badge/Open_to_Work-3fb950?style=flat-square&logoColor=white)
-![Learning Backend](https://img.shields.io/badge/Learning-Backend_Dev-58a6ff?style=flat-square)
-![DSA](https://img.shields.io/badge/Practising-DSA_in_Java-f0883e?style=flat-square)
-![India](https://img.shields.io/badge/India-🇮🇳-white?style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:00d4ff&height=200&section=header&text=SURYA-CODESPACE&fontSize=42&fontColor=00d4ff&fontAlignY=55&animation=fadeIn&stroke=00d4ff&strokeWidth=1&desc=Initializing%20Developer%20Mode...&descAlignY=75&descSize=16&descColor=ffffff" width="100%"/>
 
 </div>
 
----
+<!-- ██████████████████████  TYPING ANIMATION  ██████████████████████ -->
 
-## `// about_me`
+<div align="center">
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coder gif"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&height=60&lines=Hey+There+%F0%9F%91%8B+I'm+Surya;CS+Student+%7C+Problem+Solver;Full+Stack+Developer+in+Progress;Exploring+Backend+%7C+Practicing+DSA+in+Java;Building+Real+World+Projects+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
 
-```text
-Name       :  Suryakant
-Degree     :  B.E. Computer Engineering
-Focus      :  Full Stack & Backend Development
-DSA        :  Practising daily in Java ☕
-Building   :  MERN Stack Projects
-Goal       :  Build impactful software
-Fun fact   :  I debug with chai 🍵
-```
+</div>
 
-<br clear="right"/>
+<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## `// currently`
+<!-- ██████████████████████  INTRO GIF + ABOUT ME  ██████████████████████ -->
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
+
+<br>
 
 ```yaml
-Learning  : Backend Development (Node.js, Express, REST APIs)
-Practising: DSA — Arrays, Trees, Graphs, DP in Java
-Building  : MERN Stack Projects
-Reading   : Computer Networks & Operating Systems
-Exploring : Databases (SQL, MongoDB, MySQL)
+# ╔══════════════════════════════════╗
+# ║      DEVELOPER PROFILE v2.0      ║
+# ╚══════════════════════════════════╝
+
+name       : Suryakant
+alias      : Surya-Codespace
+role       : CS Student & Developer
+location   : India 🇮🇳
+pronouns   : He / Him
+
+status     : 🟢 Open to Collaborate
+
+currently  :
+  - 🎓 Pursuing Computer Science
+  - 🔥 Mastering DSA in Java
+  - 🌐 Building Full Stack Projects
+  - ⚙️  Exploring Backend Development
+  - 📖 Learning System Design
+
+interests  :
+  - Real World Problem Solving
+  - Open Source Contribution
+  - Web Development
+  - Competitive Programming
+
+motto      : "Code. Learn. Build. Repeat."
 ```
 
----
+</td>
+<td width="45%" align="center" valign="top">
 
-## `// tech_stack`
+<br><br>
 
-<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius:12px"/>
 
-**Frontend**
+<br><br>
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f0db4f)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34c26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=264de4)
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="320" alt="Cyber Workspace" style="border-radius:12px"/>
 
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3c873a)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=8892bf)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47a248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=4479a1)
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f89820)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3572A5)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=a9b2c3)
-
-**CS Subjects**
-
-![OS](https://img.shields.io/badge/Operating_Systems-0d1117?style=for-the-badge&logo=linux&logoColor=ff6b35)
-![CN](https://img.shields.io/badge/Computer_Networks-0d1117?style=for-the-badge&logo=cisco&logoColor=00bcd4)
-![COA](https://img.shields.io/badge/COA-0d1117?style=for-the-badge&logo=processwire&logoColor=9c27b0)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05028)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=ff6c37)
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
 
-## `// github_stats`
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_color=30363d&hide=prs,issues" />
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border=30363d&stroke=30363d" />
-</div>
-
----
-
-## `// contribution_snake.exe`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
----
-
-## `// connect`
+<!-- ██████████████████████  TECH STACK  ██████████████████████ -->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=58a6ff)](https://twitter.com/YOUR_TWITTER)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://YOUR_PORTFOLIO)
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
+&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00d4ff&height=36&text=⚡%20TECH%20STACK%20⚡&fontSize=20&fontColor=ffffff&animation=twinkling" width="380"/>
+&nbsp;
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
+</h2>
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css,php&theme=dark" />
+</p>
+
+### 🚀 Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
+
+### 📚 CS Fundamentals
+
+<p>
+<img alt="OS" src="https://img.shields.io/badge/Operating%20Systems-00d4ff?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="CN" src="https://img.shields.io/badge/Computer%20Networks-00d4ff?style=for-the-badge&logo=cisco&logoColor=black"/>
+<img alt="COA" src="https://img.shields.io/badge/COA-00d4ff?style=for-the-badge&logo=intel&logoColor=black"/>
+<img alt="DBMS" src="https://img.shields.io/badge/DBMS-00d4ff?style=for-the-badge&logo=databricks&logoColor=black"/>
+<img alt="DSA" src="https://img.shields.io/badge/DSA%20in%20Java-00d4ff?style=for-the-badge&logo=java&logoColor=black"/>
+</p>
 
 </div>
 
----
+<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
 
-<!-- ═══════════════ FOOTER WAVE ═══════════════ -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- ██████████████████████  SNAKE ANIMATION  ██████████████████████ -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a1628&height=70&section=footer&text=surya.exe+is+running...&fontSize=13&fontColor=3fb950&animation=twinkling" />
+
+<h2>🐍 &nbsp;My Contribution Graph Eating Commits&nbsp; 🐍</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surya-Codespace/Surya-Codespace/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surya-Codespace/Surya-Codespace/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Surya-Codespace/Surya-Codespace/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
 </div>
 
+<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- ██████████████████████  GITHUB STATS  ██████████████████████ -->
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<h2>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>
+&nbsp;GitHub Stats &amp; Analytics
+</h2>
+
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Surya-Codespace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=00d4ff&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Codespace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="100%" alt="Top Languages"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-Codespace&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6e00&currStreakLabel=00d4ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="80%" alt="GitHub Streak"/>
+
+</td>
+</tr>
+</table>
+
+<!-- Profile Views -->
+<br>
+<img src="https://komarev.com/ghpvc/?username=Surya-Codespace&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&logo=github" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Surya-Codespace?label=FOLLOWERS&style=for-the-badge&color=00d4ff&logo=github&logoColor=white" alt="Followers"/>
+
 </div>
+
+<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- ██████████████████████  TROPHIES  ██████████████████████ -->
+
+<div align="center">
+
+<h2>🏆 &nbsp;GitHub Trophies</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Surya-Codespace&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- ██████████████████████  ACTIVITY GRAPH  ██████████████████████ -->
+
+<div align="center">
+
+<h2>📈 &nbsp;Contribution Activity</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-Codespace&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&custom_title=Surya's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
+
+</div>
+
+<!-- ██████████████████████  SNAKE (BOTTOM)  ██████████████████████ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surya-Codespace/Surya-Codespace/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation bottom" src="https://raw.githubusercontent.com/Surya-Codespace/Surya-Codespace/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- ██████████████████████  SOCIAL / CONNECT  ██████████████████████ -->
+
+<div align="center">
+
+<h2>🌐 &nbsp;Connect With Me</h2>
+
+<p>
+<a href="https://github.com/Surya-Codespace">
+  <img src="https://img.shields.io/badge/GitHub-Surya--Codespace-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/suryakant" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Suryakant-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:suryakant@email.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/Surya-Codespace" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-00d4ff?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/>
+</a>
+</p>
+
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+&nbsp;
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+
+</div>
+
+<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- ██████████████████████  FOOTER  ██████████████████████ -->
+
+<div align="center">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0066ff,100:000000&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile%20!&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                         SNAKE WORKFLOW SETUP                                  -->
+<!--   To enable snake animation, add this GitHub Action to your profile repo:     -->
+<!--   Path: .github/workflows/snake.yml                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
