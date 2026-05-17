@@ -1,131 +1,120 @@
-````md
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=👨‍💻+SURYA+KUMAR;🚀+FULL+STACK+DEVELOPER;🛡️+CYBER+SECURITY+ENTHUSIAST;⚡+OPEN+SOURCE+CREATOR" />
-</h1>
+<!-- Binary Animation Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=200&color=00EAFF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=0101001001001000+0110010001101000+010000010100001101001011;1000001+0100001101001011+0100010001001000+0100000101000011" alt="Binary Banner" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1800&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=01010101010101010101010101010101;SYSTEM+LOADING...;ACCESS+GRANTED+✓;WELCOME+TO+SURYA'S+PROFILE" />
-</p>
+<!-- Animated Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=%5B+CYBER+SECURITY+ENGINEER+%5D;%5B+ETHICAL+HACKER+%7C+RED+TEAMER+%5D;%5B+CTF+PLAYER+%7C+BUG+HUNTER+%5D" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="100%" />
-</p>
+<!-- Auto Typing Subtitle -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FF8C&center=true&vCenter=true&width=500&lines=Penetration+Tester+%F0%9F%94%90;Securing+the+Digital+World+%F0%9F%8C%90;%3E+sudo+make+me+a+sandwich+%F0%9F%98%88;CTF+%7C+Bug+Bounty+%7C+Red+Team" alt="Subtitle" />
+</div>
 
----
+<br/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+<!-- Animated Coder GIF + About -->
+<div align="center">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coder GIF"/>
+</div>
 
-```yaml
-Name: Surya Kumar
-Username: Surya-codelab1
-Role: Full Stack Developer
-Focus: Cyber Security & Automation
-Location: India
-Learning: Spring Boot | React | DevOps | Security
-Goal: Build Powerful Real-World Projects
-````
+```bash
+$ whoami
+> cyber_ninja | ethical_hacker | ctf_player
 
----
-
-# ⚡ SYSTEM STATUS
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00BFFF?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SECURITY-BLUE_TEAM-blue?style=for-the-badge&logo=hackaday&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MODE-CODING-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
-</p>
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,html,css,js,ts,python,mysql,mongodb,git,github,docker,linux,vscode,bash" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Surya-codelab1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-codelab1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Surya-codelab1&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-codelab1&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Surya-codelab1&theme=algolia&no-frame=true&row=1&column=7" />
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/Surya-codelab1/Surya-codelab1/blob/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Surya-codelab1">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Surya-codelab1&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-
-</p>
+$ cat about.txt
+> 🔐 Passionate about offensive security
+> 🕵️ Breaking things legally since 2020
+> 🏆 CTF Player | Bug Bounty Hunter
+> 🌐 Location: India
+> 📧 Contact: yourname@protonmail.com
 ```
+
+<br clear="right"/>
+
+---
+
+<!-- Tech Stack with Glowing Badges -->
+## `> tech_stack.sh`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0a1628?style=for-the-badge&logo=python&logoColor=00eaff&labelColor=020c1b)
+![Bash](https://img.shields.io/badge/Bash-0a1628?style=for-the-badge&logo=gnu-bash&logoColor=00ff8c&labelColor=020c1b)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0a1628?style=for-the-badge&logo=kalilinux&logoColor=00eaff&labelColor=020c1b)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a1628?style=for-the-badge&logo=wireshark&logoColor=00d4ff&labelColor=020c1b)
+![Docker](https://img.shields.io/badge/Docker-0a1628?style=for-the-badge&logo=docker&logoColor=00eaff&labelColor=020c1b)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a1628?style=for-the-badge&logo=burpsuite&logoColor=ff6600&labelColor=020c1b)
+![Metasploit](https://img.shields.io/badge/Metasploit-0a1628?style=for-the-badge&logo=metasploit&logoColor=00ff8c&labelColor=020c1b)
+![Nmap](https://img.shields.io/badge/Nmap-0a1628?style=for-the-badge&logo=nmap&logoColor=00eaff&labelColor=020c1b)
+![Linux](https://img.shields.io/badge/Linux-0a1628?style=for-the-badge&logo=linux&logoColor=00ff8c&labelColor=020c1b)
+![C](https://img.shields.io/badge/C-0a1628?style=for-the-badge&logo=c&logoColor=00eaff&labelColor=020c1b)
+![Git](https://img.shields.io/badge/Git-0a1628?style=for-the-badge&logo=git&logoColor=ff5722&labelColor=020c1b)
+![VS Code](https://img.shields.io/badge/VS_Code-0a1628?style=for-the-badge&logo=visualstudiocode&logoColor=00aaff&labelColor=020c1b)
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+## `> stats.json`
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=020c1b&title_color=00eaff&icon_color=00ff8c&text_color=00eaff&border_color=00eaff44" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=020c1b&title_color=00eaff&text_color=00eaff&border_color=00eaff44" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=020c1b&ring=00eaff&fire=00ff8c&currStreakLabel=00eaff&sideLabels=00eaff&dates=00eaff88&border=00eaff44" />
+</div>
+
+---
+
+<!-- Moving Snake -->
+## `> github_snake.exe`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<!-- Activity Graph -->
+## `> activity_log.sh`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=020c1b&color=00eaff&line=00ff8c&point=00eaff&area_color=00eaff22&area=true&border_color=00eaff44&custom_title=Hacking%20Activity%20Graph" />
+</div>
+
+---
+
+<!-- Connect -->
+## `> connect.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=00eaff&labelColor=020c1b)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-0a1628?style=for-the-badge&logo=twitter&logoColor=00eaff&labelColor=020c1b)](https://twitter.com/YOUR_HANDLE)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0a1628?style=for-the-badge&logo=tryhackme&logoColor=00ff8c&labelColor=020c1b)](https://tryhackme.com/p/YOUR_USERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-0a1628?style=for-the-badge&logo=hackthebox&logoColor=00ff8c&labelColor=020c1b)](https://app.hackthebox.com/profile/YOUR_ID)
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&pause=500&color=00EAFF44&center=true&vCenter=true&width=500&lines=%3C!--+hack+the+planet+|+stay+anonymous+--%3E;%3C!--+01001000+01000001+01000011+01001011+--%3E" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00eaff&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
