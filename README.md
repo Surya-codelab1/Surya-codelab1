@@ -1,12 +1,14 @@
 <!-- ═══════════════ BINARY RAIN BANNER ═══════════════ -->
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=50&pause=0&color=00BFFF&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=01010101010101010101010101010101010101010101010101010101;00110011001100110011001100110011001100110011001100110011;11100011100011100011100011100011100011100011100011100011;01010101010101010101010101010101010101010101010101010101;00110011001100110011001100110011001100110011001100110011" />
+
+</p>
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0d1117,50:0a1628,100:0d1117&text=010110+Hey,+I+am+Surya!+101001&fontSize=20&fontColor=3fb950&animation=twinkling&fontAlignY=50&desc=010011+Software+Engineer+110100&descSize=13&descAlignY=70&descFontColor=58a6ff" />
 </div>
 
-<!-- ═══════════════ AUTO-TYPE HEADER ═══════════════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I+am+Surya!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;DSA+Practitioner+in+Java+%E2%98%95;Computer+Engg.+Student+%F0%9F%8E%93;MERN+Stack+Builder+%F0%9F%94%A5;Backend+Explorer+%F0%9F%8C%90" alt="Typing" />
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=3FB950&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Currently+learning+Backend+Dev+%7C+Practising+DSA;Always+learning%2C+never+stopping+%F0%9F%92%AA;Let%27s+build+something+awesome+together!" alt="Subtitle" />
