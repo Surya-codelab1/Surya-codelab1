@@ -2,11 +2,11 @@
 <!--                    SURYA-CODESPACE | GITHUB PROFILE README                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ██████████████████████  MATRIX BANNER  ██████████████████████ -->
+<!-- ██████████████████████  GIF BANNER  ██████████████████████ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:00d4ff&height=200&section=header&text=SURYA-CODESPACE&fontSize=42&fontColor=00d4ff&fontAlignY=55&animation=fadeIn&stroke=00d4ff&strokeWidth=1&desc=Initializing%20Developer%20Mode...&descAlignY=75&descSize=16&descColor=ffffff" width="100%"/>
+<img src="https://raw.githubusercontent.com/Surya-codelab1/Surya-codelab1/main/git.gif" width="100%" alt="Surya Codespace Banner"/>
 
 </div>
 
@@ -22,15 +22,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- ██████████████████████  INTRO GIF + ABOUT ME  ██████████████████████ -->
+<!-- ██████████████████████  ABOUT ME  ██████████████████████ -->
 
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
-
-<br>
 
 ```yaml
 # ╔══════════════════════════════════╗
@@ -60,21 +54,6 @@ interests  :
 
 motto      : "Code. Learn. Build. Repeat."
 ```
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius:12px"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="320" alt="Cyber Workspace" style="border-radius:12px"/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -134,99 +113,23 @@ motto      : "Code. Learn. Build. Repeat."
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- ██████████████████████  SNAKE ANIMATION  ██████████████████████ -->
+<!-- ██████████████████████  ANIMATED QUOTES SECTION  ██████████████████████ -->
 
 <div align="center">
 
-<h2>🐍 &nbsp;My Contribution Graph Eating Commits&nbsp; 🐍</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surya-Codespace/Surya-Codespace/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surya-Codespace/Surya-Codespace/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Surya-Codespace/Surya-Codespace/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ██████████████████████  GITHUB STATS  ██████████████████████ -->
-
-<div align="center">
-
-<h2>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>
-&nbsp;GitHub Stats &amp; Analytics
-</h2>
-
-<table border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Surya-Codespace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=00d4ff&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Codespace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="100%" alt="Top Languages"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-Codespace&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6e00&currStreakLabel=00d4ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="80%" alt="GitHub Streak"/>
-
-</td>
-</tr>
-</table>
-
-<!-- Profile Views -->
 <br>
-<img src="https://komarev.com/ghpvc/?username=Surya-Codespace&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&logo=github" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Surya-Codespace?label=FOLLOWERS&style=for-the-badge&color=00d4ff&logo=github&logoColor=white" alt="Followers"/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:001a2e,100:0d1117&height=3&section=header" width="100%"/>
 
-<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
+<br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=💡+%22Programs+must+be+written+for+people+to+read%22;🔥+%22The+best+error+message+is+the+one+that+never+shows%22;⚡+%22Code+is+like+humor+—+if+you+have+to+explain+it%2C+it's+bad%22;🚀+%22First+solve+the+problem%2C+then+write+the+code%22;🌟+%22Make+it+work%2C+make+it+right%2C+make+it+fast%22;🎯+%22Simplicity+is+the+soul+of+efficiency%22;💻+%22Talk+is+cheap.+Show+me+the+code.+—+Linus+Torvalds%22)](https://git.io/typing-svg)
 
-<!-- ██████████████████████  TROPHIES  ██████████████████████ -->
+<br>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:001a2e,100:0d1117&height=3&section=header" width="100%"/>
 
-<h2>🏆 &nbsp;GitHub Trophies</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Surya-Codespace&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
-<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ██████████████████████  ACTIVITY GRAPH  ██████████████████████ -->
-
-<div align="center">
-
-<h2>📈 &nbsp;Contribution Activity</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-Codespace&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&custom_title=Surya's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
-
-</div>
-
-<!-- ██████████████████████  SNAKE (BOTTOM)  ██████████████████████ -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surya-Codespace/Surya-Codespace/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation bottom" src="https://raw.githubusercontent.com/Surya-Codespace/Surya-Codespace/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<br>
 
 </div>
 
@@ -241,7 +144,7 @@ motto      : "Code. Learn. Build. Repeat."
 <h2>🌐 &nbsp;Connect With Me</h2>
 
 <p>
-<a href="https://github.com/Surya-Codespace">
+<a href="https://github.com/Surya-codelab1">
   <img src="https://img.shields.io/badge/GitHub-Surya--Codespace-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
 &nbsp;
@@ -276,47 +179,6 @@ motto      : "Code. Learn. Build. Repeat."
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0066ff,100:000000&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile%20!&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a2e,100:00d4ff&height=160&section=footer&text=Thanks%20for%20Visiting%20!%20⭐%20Star%20My%20Repos%20!&fontSize=22&fontColor=00d4ff&fontAlignY=55&animation=twinkling&desc=Keep%20Building%20%7C%20Keep%20Growing%20%7C%20Stay%20Curious%20🚀&descAlignY=78&descSize=15&descColor=ffffff&stroke=00d4ff&strokeWidth=1" width="100%"/>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                         SNAKE WORKFLOW SETUP                                  -->
-<!--   To enable snake animation, add this GitHub Action to your profile repo:     -->
-<!--   Path: .github/workflows/snake.yml                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
