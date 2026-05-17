@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Surya-codelab1/Surya-codelab1/main/git.gif" width="100%" alt="Surya Codespace Banner"/>
+<img src="https://raw.githubusercontent.com/Surya-codelab1/Surya-codelab1/main/banner.svg" width="100%" alt="Surya Codespace Banner"/>
 
 </div>
 
