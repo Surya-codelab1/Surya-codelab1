@@ -1,193 +1,131 @@
-<div align="center">
+````md
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=👨‍💻+SURYA+KUMAR;🚀+FULL+STACK+DEVELOPER;🛡️+CYBER+SECURITY+ENTHUSIAST;⚡+OPEN+SOURCE+CREATOR" />
+</h1>
 
-<!-- Capsule Render Top Banner -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:ff0000&height=200&section=header&text=SURYA-CODELAB1&fontSize=45&fontColor=ff0000&animation=twinkling&fontAlignY=55&desc=Initializing...&descAlignY=75&descSize=16&descColor=ff4444)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1800&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=01010101010101010101010101010101;SYSTEM+LOADING...;ACCESS+GRANTED+✓;WELCOME+TO+SURYA'S+PROFILE" />
+</p>
 
-<!-- Digital Clock Style Typing with RED -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%5BSYSTEM+BOOT%5D...+OK;%3E+Loading+Developer+Profile...;%3E+Name%3A+Suryakant+Yadav;%3E+Role%3A+Full+Stack+Developer;%3E+Stack%3A+MERN+%2B+Web+Technologies;%3E+Status%3A+Open+to+Internships+%5BACTIVE%5D;%3E+Access+Granted+%E2%9C%94)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Coder Animated GIF -->
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" alt="coder"/>
-
-<br/><br/>
-
-<!-- Red terminal style badges -->
-![](https://img.shields.io/badge/STATUS-ACTIVE-ff0000?style=for-the-badge&logo=circle&logoColor=ff0000&labelColor=0a0a0a)
-![](https://img.shields.io/badge/THREAT_LEVEL-DEVELOPER-ff0000?style=for-the-badge&labelColor=0a0a0a)
-![](https://img.shields.io/badge/LOCATION-GUJARAT,_IN-ff0000?style=for-the-badge&logo=googlemaps&logoColor=ff0000&labelColor=0a0a0a)
-![](https://komarev.com/ghpvc/?username=Surya-codelab1&color=ff0000&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0a0a0a)
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="100%" />
+</p>
 
 ---
 
-```
-██████████████████████████████████████████████████████████████
-█                                                            █
-█   ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗   █
-█   ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝   █
-█   ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗     █
-█   ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝     █
-█   ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗   █
-█   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝   █
-█                                                            █
-█              > IDENTITY CONFIRMED: SURYAKANT              █
-██████████████████████████████████████████████████████████████
-```
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+```yaml
+Name: Surya Kumar
+Username: Surya-codelab1
+Role: Full Stack Developer
+Focus: Cyber Security & Automation
+Location: India
+Learning: Spring Boot | React | DevOps | Security
+Goal: Build Powerful Real-World Projects
+````
 
 ---
 
-<div align="center">
+# ⚡ SYSTEM STATUS
 
-## `[ SYSTEM IDENTIFICATION ]`
+<p align="center">
 
-</div>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00BFFF?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
-```javascript
-// ========================================
-//  OPERATOR PROFILE — SURYA-CODELAB1
-// ========================================
+<img src="https://img.shields.io/badge/SECURITY-BLUE_TEAM-blue?style=for-the-badge&logo=hackaday&logoColor=white" />
 
-const operator = {
-  callSign     : "Surya-codelab1",
-  realName     : "Suryakant Yadav",
-  clearance    : "Full Stack Developer",
-  university   : "Gujarat Technological University",
-  year         : "3rd Year — B.E. Computer Engineering [2027]",
-  coordinates  : "Gujarat, India 🇮🇳",
-  missionStatus: "SEEKING INTERNSHIP — [OPEN]",
+<img src="https://img.shields.io/badge/MODE-CODING-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
-  primaryStack : ["Node.js", "Express.js", "MongoDB", "React.js"],
-  secondaryOps : ["JavaScript", "Python", "Java", "C++", "SQL"],
-  tools        : ["Git", "GitHub", "VS Code", "Postman", "Linux"],
-
-  currentMission : "Building MERN projects + learning DSA",
-  contactProtocol: "surajworks2025@gmail.com",
-
-  selfDestruct   : false  // Not today 😄
-};
-
-console.log(`[${new Date().toISOString()}] Operator online.`);
-```
+</p>
 
 ---
 
-<div align="center">
+# 🚀 Tech Stack
 
-## `[ TECH ARSENAL ]`
+<p align="center">
 
-<!-- Languages -->
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FF0000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0a0a0a)
-![Python](https://img.shields.io/badge/PYTHON-FF0000?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a)
-![Java](https://img.shields.io/badge/JAVA-FF0000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a0a)
-![C++](https://img.shields.io/badge/C++-FF0000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0a0a0a)
-![C](https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white&labelColor=0a0a0a)
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,html,css,js,ts,python,mysql,mongodb,git,github,docker,linux,vscode,bash" />
 
-<!-- Frontend -->
-![React](https://img.shields.io/badge/REACT-FF0000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0a0a)
-![HTML5](https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0a0a0a)
-![CSS3](https://img.shields.io/badge/CSS3-FF0000?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0a0a0a)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-FF0000?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0a0a0a)
-
-<!-- Backend -->
-![Node.js](https://img.shields.io/badge/NODE.JS-FF0000?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0a0a0a)
-![Express](https://img.shields.io/badge/EXPRESS-FF0000?style=for-the-badge&logo=express&logoColor=white&labelColor=0a0a0a)
-![MongoDB](https://img.shields.io/badge/MONGODB-FF0000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0a0a0a)
-![MySQL](https://img.shields.io/badge/MYSQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0a0a)
-
-<!-- Tools -->
-![Git](https://img.shields.io/badge/GIT-FF0000?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0a0a0a)
-![GitHub](https://img.shields.io/badge/GITHUB-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)
-![VSCode](https://img.shields.io/badge/VSCODE-FF0000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0a0a0a)
-![Postman](https://img.shields.io/badge/POSTMAN-FF0000?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0a0a0a)
-![Linux](https://img.shields.io/badge/LINUX-FF0000?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0a0a0a)
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 📊 GitHub Stats
 
-## `[ MISSION LOGS — PROJECTS ]`
+<p align="center">
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Surya-codelab1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  MISSION_01 :: BLOG WEBSITE                                 │
-│  STATUS     :: [DEPLOYED] ✔                                 │
-│  STACK      :: Node.js + Express + MongoDB + HTML/CSS       │
-│  IMPACT     :: 100+ active users acquired in Month 1        │
-│  OPS        :: RESTful APIs, CRUD ops, Session management   │
-│  REPO       :: github.com/Surya-codelab1/blog-website       │
-└─────────────────────────────────────────────────────────────┘
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-codelab1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-┌─────────────────────────────────────────────────────────────┐
-│  MISSION_02 :: COACHING INSTITUTE WEBSITE                   │
-│  STATUS     :: [DEPLOYED] ✔                                 │
-│  STACK      :: HTML + CSS + JavaScript + Bootstrap          │
-│  IMPACT     :: Centralized study materials for students     │
-│  OPS        :: Responsive UI, multi-page, solo built        │
-│  REPO       :: github.com/Surya-codelab1/coaching-website   │
-└─────────────────────────────────────────────────────────────┘
-```
+</p>
 
 ---
 
-<div align="center">
+# 🔥 GitHub Streak
 
-## `[ SIGNAL STRENGTH — GITHUB STATS ]`
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Surya-codelab1&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0a0a0a&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged" height="175" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=Surya-codelab1&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-codelab1&layout=compact&theme=dark&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0a0a0a" height="175" alt="Top Languages"/>
-
-<br/>
-
-<!-- Streak Counter -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Surya-codelab1&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&dates=888888&background=0a0a0a)](https://git.io/streak-stats)
-
-<br/>
-
-<!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Surya-codelab1&theme=darkhub&no-frame=true&row=1&column=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 📈 Contribution Graph
 
-## `[ ACTIVITY GRID ]`
+<p align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Surya-codelab1&theme=redical&hide_border=true&bg_color=0a0a0a&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-codelab1&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 🏆 GitHub Achievements
 
-## `[ OPEN CHANNELS ]`
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/suryakant-yadav)
-[![Gmail](https://img.shields.io/badge/EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:surajworks2025@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/Surya-codelab1)
+<img src="https://github-profile-trophy.vercel.app/?username=Surya-codelab1&theme=algolia&no-frame=true&row=1&column=7" />
 
-<br/>
+</p>
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/Surya-codelab1/Surya-codelab1/blob/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Surya-codelab1">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Surya-codelab1&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+</p>
 ```
-> TRANSMISSION END
-> All systems nominal.
-> Awaiting next mission...
-> Contact: surajworks2025@gmail.com
-> [SIGNAL OUT] ▓▓▓▓▓▓▓▓▓▓ 100%
-```
-
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:ff0000,100:000000&height=120&section=footer&text=SURYA-CODELAB1&fontSize=30&fontColor=ff0000&animation=twinkling&fontAlignY=55)
-
-</div>
