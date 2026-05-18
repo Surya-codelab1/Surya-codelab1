@@ -21,28 +21,39 @@
 
 <!-- ██████████████████████  ABOUT   ██████████████████████ -->
 
+<!-- ██████████████████████  ABOUT ME  ██████████████████████ -->
 <div align="center">
-
 <h2>👨‍💻 &nbsp;About Me</h2>
-
 </div>
+<table>
+<tr>
+<td valign="top" width="60%">
+🙋‍♂️ Who Am I?
+🧑‍💻  Name: Suryakant    Alias: Surya-Codespace
+🎯  Role: CS Student & Aspiring Full Stack Developer
+🌍  Location: India 🇮🇳    Status: 🟢 Open to Collaborate
+<br>
+⚡ What I Do
 
-<p>
-<b>Name:</b> Suryakant <br>
-<b>Alias:</b> Surya-Codespace <br>
-<b>Role:</b> Computer Science Student & Aspiring Full Stack Developer
-</p>
-
-<p>
-Passionate about <b>Java, DSA, Backend Development</b>, and building practical solutions that create real impact.
-Every project I build is a step toward mastering the craft of software development.
-</p>
+🚀  Turning ideas into scalable Full Stack Applications with clean code & powerful backend systems
+💡  Passionate about DSA, Backend Engineering & Open Source — building tech with real-world impact
 
 <br>
+🔭 Currently
 
+🎓  Pursuing Computer Science — learning something new every single day
+🔥  Sharpening problem-solving edge through DSA in Java
+🌐  Building real-world Full Stack Projects with clean architecture
+⚙️  Exploring Backend Development, REST APIs & System Design
+🤝  Looking to collaborate on Open Source and impactful projects
+💬  Motto: "Code. Create. Conquer."
 
-
-</div>
+</td>
+<td valign="center" width="40%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+</td>
+</tr>
+</table>
 <!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
