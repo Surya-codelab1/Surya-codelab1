@@ -19,40 +19,48 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<!-- ██████████████████████  ABOUT   ██████████████████████ -->
-
+<!-- ██████████████████████  ABOUT  ██████████████████████ -->
 
 <div align="center">
 <h2>👨‍💻 &nbsp;About Me</h2>
 </div>
+
 <table>
 <tr>
+
 <td valign="top" width="60%">
-<h4>🙋‍♂️ Who Am I?</h4>
-🧑‍💻  Name: Suryakant 
-🌐  Alias: Surya-Codespace
-🎯  Role: CS Student & Aspiring Full Stack Developer
-  
-    Status: 🟢 Open to Collaborate
-<br>
-⚡ What I Do
 
-🚀  Turning ideas into scalable Full Stack Applications with clean code & powerful backend systems
-💡  Passionate about DSA, Backend Engineering & Open Source — building tech with real-world impact
+<h4>🙋‍♂️ <b>Who Am I?</b></h4>
+
+- 🧑‍💻 &nbsp;<b>Name:</b> Suryakant  
+- 🌐 &nbsp;<b>Alias:</b> Surya-Codespace  
+- 🎯 &nbsp;<b>Role:</b> CS Student & Aspiring Full Stack Developer  
+- 🟢 &nbsp;<b>Status:</b> Open to Collaborate  
 
 <br>
-🔭 Currently
 
-🎓  Pursuing Computer Science — learning something new every single day
+<h4>⚡ <b>What I Do</b></h4>
 
-⚙️  Exploring Backend Development, REST APIs & System Design
-🤝  Looking to collaborate on Open Source and impactful projects
-💬  Motto: "Code. Create. Conquer."
+- 🚀 &nbsp;Building scalable <b>Full Stack Applications</b> with clean architecture & backend systems  
+- 💡 &nbsp;Passionate about <b>DSA, Backend Engineering & Open Source</b>  
+
+<br>
+
+<h4>🔭 <b>Currently</b></h4>
+
+- 🎓 &nbsp;Learning <b>Computer Science</b> & improving problem-solving daily  
+- ⚙️ &nbsp;Exploring <b>Backend Development, APIs & System Design</b>  
+- 🤝 &nbsp;Open to <b>Open Source Collaboration</b>  
+- 💬 &nbsp;<b>Motto:</b> <i>"Code. Create. Conquer."</i>  
 
 </td>
+
 <td valign="center" width="40%" align="center">
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
 </td>
+
 </tr>
 </table>
 <!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
