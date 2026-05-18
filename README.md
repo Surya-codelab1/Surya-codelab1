@@ -1,8 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    SURYA-CODESPACE | GITHUB PROFILE README                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ██████████████████████  GIF BANNER  ██████████████████████ -->
 
 <div align="center">
 
@@ -10,7 +6,7 @@
 
 </div>
 
-<!-- ██████████████████████  TYPING ANIMATION  ██████████████████████ -->
+<!-- ██████████████████████  TYPING  ██████████████████████ -->
 
 <div align="center">
 
@@ -22,10 +18,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- ██████████████████████  ABOUT ME  ██████████████████████ -->
 
-<div align="center">
-<!-- ██████████████████████  ABOUT ME  ██████████████████████ -->
+<!-- ██████████████████████  ABOUT   ██████████████████████ -->
 
 <div align="center">
 
@@ -46,10 +40,7 @@ Every project I build is a step toward mastering the craft of software developme
 
 <br>
 
-- 🚀 &nbsp; Building scalable <b>Full Stack Applications</b> with clean architecture & efficient backend logic  
-- ⚡ &nbsp; Currently sharpening my skills in <b>DSA, Java, and System Design</b>
-- 🌱 &nbsp; Always learning, building, and pushing beyond limits as a developer
-- 🤝 &nbsp; Open to <b>collaborate on meaningful projects</b> and grow through real-world experience
+
 
 </div>
 <!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
@@ -104,13 +95,6 @@ Every project I build is a step toward mastering the craft of software developme
 
 </div>
 
-<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
@@ -147,6 +131,6 @@ Every project I build is a step toward mastering the craft of software developme
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010101,30:0d1117,60:0a3069,100:1f6feb&height=200&section=footer&text=Code.+Build.+Repeat.+🚀&fontSize=28&fontColor=e6edf3&fontAlignY=55&animation=twinkling&desc=Thanks+for+stopping+by+—+every+⭐+keeps+the+commits+coming!&descAlignY=74&descSize=14&descColor=58a6ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010101,30:0d1117,60:0a3069,100:1f6feb&height=200&section=footer&text=Code.+Build.+Repeat.+🚀&fontSize=28&fontColor=e6edf3&fontAlignY=55&animation=twinkling&desc=desc=Thanks+for+visiting+my+profile!+Hope+to+see+you+again.!&descAlignY=74&descSize=14&descColor=58a6ff" width="100%"/>
 
 </div>
