@@ -21,17 +21,19 @@
 
 <!-- ██████████████████████  ABOUT   ██████████████████████ -->
 
-<!-- ██████████████████████  ABOUT ME  ██████████████████████ -->
+
 <div align="center">
 <h2>👨‍💻 &nbsp;About Me</h2>
 </div>
 <table>
 <tr>
 <td valign="top" width="60%">
-🙋‍♂️ Who Am I?
-🧑‍💻  Name: Suryakant    Alias: Surya-Codespace
+<h4>🙋‍♂️ Who Am I?</h4>
+🧑‍💻  Name: Suryakant 
+🌐  Alias: Surya-Codespace
 🎯  Role: CS Student & Aspiring Full Stack Developer
-🌍  Location: India 🇮🇳    Status: 🟢 Open to Collaborate
+  
+    Status: 🟢 Open to Collaborate
 <br>
 ⚡ What I Do
 
@@ -42,8 +44,7 @@
 🔭 Currently
 
 🎓  Pursuing Computer Science — learning something new every single day
-🔥  Sharpening problem-solving edge through DSA in Java
-🌐  Building real-world Full Stack Projects with clean architecture
+
 ⚙️  Exploring Backend Development, REST APIs & System Design
 🤝  Looking to collaborate on Open Source and impactful projects
 💬  Motto: "Code. Create. Conquer."
