@@ -131,6 +131,6 @@ Every project I build is a step toward mastering the craft of software developme
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010101,30:0d1117,60:0a3069,100:1f6feb&height=200&section=footer&text=Code.+Build.+Repeat.+🚀&fontSize=28&fontColor=e6edf3&fontAlignY=55&animation=twinkling&desc=desc=Thanks+for+visiting+my+profile!+Hope+to+see+you+again.!&descAlignY=74&descSize=14&descColor=58a6ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010101,30:0d1117,60:0a3069,100:1f6feb&height=200&section=footer&text=Code.+Build.+Repeat.+🚀&fontSize=28&fontColor=e6edf3&fontAlignY=55&animation=twinkling&desc=Thanks+for+visiting+my+profile!!&descAlignY=74&descSize=14&descColor=58a6ff" width="100%"/>
 
 </div>
