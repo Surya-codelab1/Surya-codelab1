@@ -26,35 +26,24 @@
 
 <div align="center">
 
-```yaml
-# ╔══════════════════════════════════╗
-# ║      DEVELOPER PROFILE v2.0      ║
-# ╚══════════════════════════════════╝
+<!-- ██████████████████████  ABOUT ME  ██████████████████████ -->
 
-name       : Suryakant
-alias      : Surya-Codespace
-role       : CS Student & Developer
-location   : India 🇮🇳
-pronouns   : He / Him
+<div align="center">
 
-status     : 🟢 Open to Collaborate
+<h2>👨‍💻 &nbsp;About Me</h2>
 
-currently  :
-  - 🎓 Pursuing Computer Science
-  - 🔥 Mastering DSA in Java
-  - 🌐 Building Full Stack Projects
-  - ⚙️  Exploring Backend Development
-  - 📖 Learning System Design
+</div>
 
-interests  :
-  - Real World Problem Solving
-  - Open Source Contribution
-  - Web Development
-  - Competitive Programming
+<p>
+I'm a <b>Computer Science student</b> and passionate <b>Full Stack Developer in progress</b> with a deep love for
+<b>Java, DSA, Backend Development</b>, and building things that actually work in the real world.
+I believe every line of code is a step closer to becoming the developer I want to be.
+</p>
 
-motto      : "Code. Learn. Build. Repeat."
-```
+<br>
 
+- 🚀 &nbsp; Turning ideas into scalable full-stack applications with clean code & powerful backend systems  
+- ⚡ &nbsp; Passionate about DSA, open source, and building technology that creates real-world impact
 </div>
 
 <!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
