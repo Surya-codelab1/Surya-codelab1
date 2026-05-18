@@ -108,45 +108,11 @@ Every project I build is a step toward mastering the craft of software developme
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- ██████████████████████  DEV PHILOSOPHY / QUOTES  ██████████████████████ -->
-
-<div align="center">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:001a2e,100:0d1117&height=3&section=header" width="100%"/>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=💡+%22Don't+just+write+code+—+build+solutions+that+matter%22;🔥+%22Every+bug+is+a+lesson;+every+fix+is+growth%22;⚡+%22Backend+is+where+the+real+magic+happens%22;🚀+%22DSA+is+not+just+practice+—+it's+a+mindset%22;🌟+%22One+commit+at+a+time,+one+dream+at+a+time%22;🎯+%22I+don't+stop+when+I'm+tired+—+I+stop+when+I'm+done%22;💻+%22Consistency+beats+talent+when+talent+isn't+consistent%22)](https://git.io/typing-svg)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:001a2e,100:0d1117&height=3&section=header" width="100%"/>
-
-<br>
-
-</div>
-
 <!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- ██████████████████████  GITHUB STATS  ██████████████████████ -->
 
-<div align="center">
-
-<h2>📊 &nbsp;GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Surya-codelab1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="48%"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Surya-codelab1&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-codelab1&theme=react-dark&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" width="98%"/>
-
-</div>
 
 <!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
 
@@ -162,10 +128,13 @@ Every project I build is a step toward mastering the craft of software developme
 
 <br><br>
 
-> *"Every great developer you know got there by solving problems they were unqualified to solve — until they did it."*
-> 
-> **That's the journey. That's the grind. That's Surya-Codespace.** 🚀
+<!-- ██████████████████████  AUTO-TYPE TERMINAL  ██████████████████████ -->
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+Surya-Codespace...;%3E+Coding+in+progress+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91;%3E+Learning+something+new+every+single+day;%3E+Building+Full+Stack+Projects+with+Java+%26+Backend;%3E+Turning+ideas+into+real-world+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 <br>
 
 </div>
@@ -178,6 +147,6 @@ Every project I build is a step toward mastering the craft of software developme
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a2e,100:00d4ff&height=200&section=footer&text=Keep+Building.+Keep+Growing.+🚀&fontSize=24&fontColor=ffffff&fontAlignY=62&animation=twinkling&desc=If+my+work+helped+you+—+a+⭐+fuels+the+journey+forward!&descAlignY=80&descSize=15&descColor=00d4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010101,30:0d1117,60:0a3069,100:1f6feb&height=200&section=footer&text=Code.+Build.+Repeat.+🚀&fontSize=28&fontColor=e6edf3&fontAlignY=55&animation=twinkling&desc=Thanks+for+stopping+by+—+every+⭐+keeps+the+commits+coming!&descAlignY=74&descSize=14&descColor=58a6ff" width="100%"/>
 
 </div>
