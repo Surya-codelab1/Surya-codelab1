@@ -25,7 +25,6 @@
 <!-- ██████████████████████  ABOUT ME  ██████████████████████ -->
 
 <div align="center">
-
 <!-- ██████████████████████  ABOUT ME  ██████████████████████ -->
 
 <div align="center">
@@ -35,17 +34,24 @@
 </div>
 
 <p>
-I'm a <b>Computer Science student</b> and passionate <b>Full Stack Developer in progress</b> with a deep love for
-<b>Java, DSA, Backend Development</b>, and building things that actually work in the real world.
-I believe every line of code is a step closer to becoming the developer I want to be.
+<b>Name:</b> Suryakant <br>
+<b>Alias:</b> Surya-Codespace <br>
+<b>Role:</b> Computer Science Student & Aspiring Full Stack Developer
+</p>
+
+<p>
+Passionate about <b>Java, DSA, Backend Development</b>, and building practical solutions that create real impact.
+Every project I build is a step toward mastering the craft of software development.
 </p>
 
 <br>
 
-- 🚀 &nbsp; Turning ideas into scalable full-stack applications with clean code & powerful backend systems  
-- ⚡ &nbsp; Passionate about DSA, open source, and building technology that creates real-world impact
-</div>
+- 🚀 &nbsp; Building scalable <b>Full Stack Applications</b> with clean architecture & efficient backend logic  
+- ⚡ &nbsp; Currently sharpening my skills in <b>DSA, Java, and System Design</b>
+- 🌱 &nbsp; Always learning, building, and pushing beyond limits as a developer
+- 🤝 &nbsp; Open to <b>collaborate on meaningful projects</b> and grow through real-world experience
 
+</div>
 <!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
