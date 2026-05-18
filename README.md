@@ -113,7 +113,7 @@ motto      : "Code. Learn. Build. Repeat."
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- ██████████████████████  ANIMATED QUOTES SECTION  ██████████████████████ -->
+<!-- ██████████████████████  DEV PHILOSOPHY / QUOTES  ██████████████████████ -->
 
 <div align="center">
 
@@ -123,7 +123,7 @@ motto      : "Code. Learn. Build. Repeat."
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=💡+%22Programs+must+be+written+for+people+to+read%22;🔥+%22The+best+error+message+is+the+one+that+never+shows%22;⚡+%22Code+is+like+humor+—+if+you+have+to+explain+it%2C+it's+bad%22;🚀+%22First+solve+the+problem%2C+then+write+the+code%22;🌟+%22Make+it+work%2C+make+it+right%2C+make+it+fast%22;🎯+%22Simplicity+is+the+soul+of+efficiency%22;💻+%22Talk+is+cheap.+Show+me+the+code.+—+Linus+Torvalds%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=💡+%22Don't+just+write+code+—+build+solutions+that+matter%22;🔥+%22Every+bug+is+a+lesson;+every+fix+is+growth%22;⚡+%22Backend+is+where+the+real+magic+happens%22;🚀+%22DSA+is+not+just+practice+—+it's+a+mindset%22;🌟+%22One+commit+at+a+time,+one+dream+at+a+time%22;🎯+%22I+don't+stop+when+I'm+tired+—+I+stop+when+I'm+done%22;💻+%22Consistency+beats+talent+when+talent+isn't+consistent%22)](https://git.io/typing-svg)
 
 <br>
 
@@ -137,35 +137,19 @@ motto      : "Code. Learn. Build. Repeat."
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- ██████████████████████  SOCIAL / CONNECT  ██████████████████████ -->
+<!-- ██████████████████████  GITHUB STATS  ██████████████████████ -->
 
 <div align="center">
 
-<h2>🌐 &nbsp;Connect With Me</h2>
+<h2>📊 &nbsp;GitHub Stats</h2>
 
-<p>
-<a href="https://github.com/Surya-codelab1">
-  <img src="https://img.shields.io/badge/GitHub-Surya--Codespace-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Surya-codelab1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="48%"/>
 &nbsp;
-<a href="https://linkedin.com/in/suryakant" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Suryakant-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:suryakant@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/Surya-Codespace" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-00d4ff?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/>
-</a>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Surya-codelab1&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="48%"/>
 
-<br>
+<br><br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
-&nbsp;
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-codelab1&theme=react-dark&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" width="98%"/>
 
 </div>
 
@@ -173,12 +157,32 @@ motto      : "Code. Learn. Build. Repeat."
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- ██████████████████████  FOOTER  ██████████████████████ -->
+<!-- ██████████████████████  VISITOR BADGE  ██████████████████████ -->
 
 <div align="center">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a2e,100:00d4ff&height=160&section=footer&text=Thanks%20for%20Visiting%20!%20⭐%20Star%20My%20Repos%20!&fontSize=22&fontColor=00d4ff&fontAlignY=55&animation=twinkling&desc=Keep%20Building%20%7C%20Keep%20Growing%20%7C%20Stay%20Curious%20🚀&descAlignY=78&descSize=15&descColor=ffffff&stroke=00d4ff&strokeWidth=1" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=Surya-codelab1&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+> *"Every great developer you know got there by solving problems they were unqualified to solve — until they did it."*
+> 
+> **That's the journey. That's the grind. That's Surya-Codespace.** 🚀
+
+<br>
+
+</div>
+
+<!-- ██████████████████████  NEON DIVIDER  ██████████████████████ -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- ██████████████████████  FOOTER — ANIMATED WAVE  ██████████████████████ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a2e,100:00d4ff&height=200&section=footer&text=Keep+Building.+Keep+Growing.+🚀&fontSize=24&fontColor=ffffff&fontAlignY=62&animation=twinkling&desc=If+my+work+helped+you+—+a+⭐+fuels+the+journey+forward!&descAlignY=80&descSize=15&descColor=00d4ff" width="100%"/>
 
 </div>
